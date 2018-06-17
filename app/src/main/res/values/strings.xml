@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Opencv_test</string>
+
+    <string name="tutorial">
+        Simple Tutorial
+    </string>
+
+</resources>
